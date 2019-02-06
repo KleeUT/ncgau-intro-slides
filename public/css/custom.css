@@ -1,4 +1,6 @@
 .sponsorimg{
+    max-width:20vw !important;
+    max-height:10vw !important;
     border:0 !important;
     background-color: transparent !important;
     box-shadow: 0 0 0 transparent !important;
